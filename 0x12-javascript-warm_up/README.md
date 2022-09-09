@@ -1,1 +1,1 @@
-An introduction to javascript scripting
+introduction to javascript
