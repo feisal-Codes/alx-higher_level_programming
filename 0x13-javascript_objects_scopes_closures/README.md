@@ -1,1 +1,1 @@
-More on JavaScript Objects
+js objects, scopes and closure
